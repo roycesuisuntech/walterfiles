@@ -1,0 +1,8 @@
+.openclaw/
+# SSH keys (keep private key out of git)
+.ssh_github_ed25519
+.ssh_github_ed25519.pub
+
+# Optional local notes
+memory/
+*.log
